@@ -70,7 +70,7 @@ function getWord() {
     return null;
   }
 
-  return "Art";
+  return null;
 }
 
 function updateWordDisplay() {
